@@ -1,2 +1,0 @@
-config SHIELD_SOUTHPAW75
-    def_bool $(shields_list_contains,southpaw75)
